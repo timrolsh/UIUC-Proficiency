@@ -1,0 +1,8 @@
+# Environment definition file for Conda for ease of install
+# To create the environment, run the following command:
+# conda env create -f environment.yml
+name: stat107
+dependencies:
+    - python=3.12
+    - ipykernel
+    # - pip:
