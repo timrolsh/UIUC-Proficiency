@@ -13,11 +13,11 @@ This exam is definitely more difficult and tests the topics taught in the course
 clang++ -I [folder_name]
 ```
 
-- If you have a folder called test and you do -Itest and a header inside that folder called tim you can then do ``#include "tim"``
+- If you have a folder called test and you do -I test/ and a header file inside that folder called `tim.hpp` you can then do ``#include "tim"``
 
 ## Make
 
-- Review make notes in my cs notes [here](../..CS Notes/CMake.md)
+- Review make notes in my cs notes [here](./CS128MakeNotes.md)
 
 ## Reading from stdin
 
