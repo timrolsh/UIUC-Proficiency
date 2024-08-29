@@ -5,4 +5,10 @@ name: stat107
 dependencies:
     - python=3.12
     - ipykernel
-    # - pip:
+    - pandas
+    - numpy
+    - pandas-stubs
+    - matplotlib
+    - scipy
+    - pip:
+        - scikit-learn
