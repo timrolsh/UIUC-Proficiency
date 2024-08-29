@@ -1,6 +1,14 @@
-# UIUC CS Proficiency Exam Notes
+# UIUC Proficiency Exam Notes
 
-Collection of my notes for UIUC CS proficiency exams for classes CS 124, CS 128, CS 173, CS 225, and STAT 107. My foundation before preparing for these exams was knowledge from AP Computer Science A and some minor knowledge of data structures and C++. My notes build on this foundational level of understanding.
+Collection of my notes for UIUC proficiency exams for the following classes:
+* CS 124: Introduction to Computer Science I
+* CS 128: Introduction to Computer Science II
+* CS 173: Discrete Structures
+* CS 225: Data Structures
+* STAT 107: Data Science Discovery
+* MATH 257: Linear Algebra with Computational Applications
+
+My foundation before preparing for these exams was AP Computer Science A, AP Statistics, and some minor knowledge of data structures and C++. My notes build on this foundational level of understanding.
 
 ## STAT107 Runtime Environment
 
