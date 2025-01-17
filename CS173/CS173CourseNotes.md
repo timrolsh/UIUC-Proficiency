@@ -1,5 +1,7 @@
 # CS 173 Notes
 
+## Clone Repo And Use Preview in VSCode. Github Markdown Render Doesn't Render Some Things Properly
+
 ## Chapters to Learn
 
 ## Exam Info
@@ -324,7 +326,7 @@ can have duplicates
 
 **Collection**: A set contained of sets
 
-**Power Set** ($P \left(A\right)$): Set that contains all the possible subsets of set $A$
+**Power Set** ( $P \left(A\right)$): Set that contains all the possible subsets of set $A$
 Subsets of set $A$ of length $m$ contain $n$ elements? : $\displaystyle{\left(\begin{matrix}{m}\\{n}\end{matrix}\right)}=\frac{{{m}!}}{{{\left({n}!\right)}{\left({m}-{n}\right)}!}}$ because order in sets doesn't matter, for tuples it does matter
 
 **Combinations with Repetition**: Cases where you have set  of size $n$, can put multiple copies of the same element in a new set of a certain size $m$, which can be larger than the set you're pulling from, $m > n$

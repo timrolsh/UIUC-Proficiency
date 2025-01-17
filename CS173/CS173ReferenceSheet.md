@@ -1,5 +1,7 @@
 # CS 173 Reference Sheet
 
+## Clone Repo And Use Preview in VSCode. Github Markdown Render Doesn't Render Some Things Properly
+
 **Finite Geometric Series Formula**: ${\sum}_{k = 0}^{n} {r}^{k} = \frac{{r}^{n + 1} - 1}{r - 1}$
 
 **Closed Form of Summation**: ${\sum}_{i = 1}^{n} i = \frac{n \left(n + 1\right)}{2}$

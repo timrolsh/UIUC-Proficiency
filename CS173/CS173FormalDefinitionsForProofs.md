@@ -1,5 +1,7 @@
 # CS 173 Formal Definitions for Proofs
 
+## Clone Repo And Use Preview in VSCode. Github Markdown Render Doesn't Render Some Things Properly
+
 **Rational Number**: A number $q$ is rational if it can be written as $q = \frac{m}{n} \text{, " m", } n \in \mathbb{Z} \wedge \neg \left(n | m\right)$
 
 * Fraction should be in simplest term and $n$ and $m$ should share no factors
