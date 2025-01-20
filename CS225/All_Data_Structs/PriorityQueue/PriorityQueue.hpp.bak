@@ -1,0 +1,6 @@
+#ifndef PRIORITYQUEUE_HPP
+#define PRIORITYQUEUE_HPP
+
+// Add your PriorityQueue implementation here
+
+#endif // PRIORITYQUEUE_HPP
