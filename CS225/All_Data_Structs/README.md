@@ -6,13 +6,16 @@
 - Linked List (singly, doubly, circular)
 - Stack
 - Queue
+- PriorityQueue
 - Binary Tree (BST, AVL tree, Red-Black Tree)
 - Heap
-- Hash (Table, Set, Map)
+- Hash (Map, Set)
 - Graph
-
-## And also:
-- Smart Pointers (Unique, Shared)
+- DisjointSet
+- HashMap
+- Trie
+- BTree
+- BloomFilter     
 
 ## Directions:
-- Makefiles are provided for all the mini projects. Go to any data structures' directory and run make to build that specific project, or make clean to clean the binaries.
+Makefiles are provided for all mini projects. Navigate to the directory of any data structure project and run 'make' to build it, or use 'make clean' to remove the binaries.
